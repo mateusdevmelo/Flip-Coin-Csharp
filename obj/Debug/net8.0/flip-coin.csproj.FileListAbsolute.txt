@@ -1,0 +1,14 @@
+C:\Users\Mateu\flip-coin\flip-coin\bin\Debug\net8.0\flip-coin.exe
+C:\Users\Mateu\flip-coin\flip-coin\bin\Debug\net8.0\flip-coin.deps.json
+C:\Users\Mateu\flip-coin\flip-coin\bin\Debug\net8.0\flip-coin.runtimeconfig.json
+C:\Users\Mateu\flip-coin\flip-coin\bin\Debug\net8.0\flip-coin.dll
+C:\Users\Mateu\flip-coin\flip-coin\bin\Debug\net8.0\flip-coin.pdb
+C:\Users\Mateu\flip-coin\flip-coin\obj\Debug\net8.0\flip-coin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateu\flip-coin\flip-coin\obj\Debug\net8.0\flip-coin.AssemblyInfoInputs.cache
+C:\Users\Mateu\flip-coin\flip-coin\obj\Debug\net8.0\flip-coin.AssemblyInfo.cs
+C:\Users\Mateu\flip-coin\flip-coin\obj\Debug\net8.0\flip-coin.csproj.CoreCompileInputs.cache
+C:\Users\Mateu\flip-coin\flip-coin\obj\Debug\net8.0\flip-coin.dll
+C:\Users\Mateu\flip-coin\flip-coin\obj\Debug\net8.0\refint\flip-coin.dll
+C:\Users\Mateu\flip-coin\flip-coin\obj\Debug\net8.0\flip-coin.pdb
+C:\Users\Mateu\flip-coin\flip-coin\obj\Debug\net8.0\flip-coin.genruntimeconfig.cache
+C:\Users\Mateu\flip-coin\flip-coin\obj\Debug\net8.0\ref\flip-coin.dll
